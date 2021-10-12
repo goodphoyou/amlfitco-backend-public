@@ -2,6 +2,8 @@ This back-end API is built with NodeJS, Express, and Okta API. It is deployed wi
 
 The back-end serves up course files and testimonials for the [amlfitco website](https://mounirlazzouni.com/)
 
+Front end repo here - https://github.com/goodphoyou/amlfitco-frontend-public
+
 It also contains the back-end API call to Okta for creating users. If you want to set up this API, please create an Okta developer account and create an API token with your app.
 
 API calls are made with Axios on the front end.
